@@ -1,4 +1,3 @@
-# my_website
 # My Website
 
 This is a simple website built using Flask, a lightweight web framework for Python. The website showcases a portfolio with various sections including an introduction, personal interests, and social media links.
